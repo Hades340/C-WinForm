@@ -1,0 +1,11 @@
+E:\HOC_IT\C# Winform\BaiTap\BaiTap\bin\Debug\BaiTap.exe.config
+E:\HOC_IT\C# Winform\BaiTap\BaiTap\bin\Debug\BaiTap.exe
+E:\HOC_IT\C# Winform\BaiTap\BaiTap\bin\Debug\BaiTap.pdb
+E:\HOC_IT\C# Winform\BaiTap\BaiTap\obj\Debug\BaiTap.csprojAssemblyReference.cache
+E:\HOC_IT\C# Winform\BaiTap\BaiTap\obj\Debug\BaiTap.Form1.resources
+E:\HOC_IT\C# Winform\BaiTap\BaiTap\obj\Debug\BaiTap.Properties.Resources.resources
+E:\HOC_IT\C# Winform\BaiTap\BaiTap\obj\Debug\BaiTap.csproj.GenerateResource.cache
+E:\HOC_IT\C# Winform\BaiTap\BaiTap\obj\Debug\BaiTap.csproj.CoreCompileInputs.cache
+E:\HOC_IT\C# Winform\BaiTap\BaiTap\obj\Debug\BaiTap.exe
+E:\HOC_IT\C# Winform\BaiTap\BaiTap\obj\Debug\BaiTap.pdb
+E:\HOC_IT\C# Winform\BaiTap\BaiTap\obj\Debug\BaiTap.Phim.resources
